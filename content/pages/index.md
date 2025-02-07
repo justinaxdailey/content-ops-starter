@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to productio
+      text: Justin Dailey Cybersecurity
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
