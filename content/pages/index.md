@@ -13,11 +13,6 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions: []
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
