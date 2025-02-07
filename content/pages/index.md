@@ -28,8 +28,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - posts:
-      - content/pages/blog/case-study-2.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
